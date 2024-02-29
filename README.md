@@ -1,1 +1,1 @@
-# formlogin
+# Liberty sample application formlogin
